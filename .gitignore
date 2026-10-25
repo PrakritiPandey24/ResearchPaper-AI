@@ -1,0 +1,18 @@
+﻿# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# API credentials
+.env
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Generated vector database
+chroma_db/
+
+# Research PDFs stored in the data folder
+data/*.pdf
