@@ -265,6 +265,4 @@ This project demonstrates the integration of several Generative AI concepts:
 - Document processing and chunking
 - Basic evaluation of retrieval and generated answers
 
-## License
 
-Add a license before distributing this project publicly. Ensure that any included research papers are shared in accordance with their applicable copyright and distribution terms.
