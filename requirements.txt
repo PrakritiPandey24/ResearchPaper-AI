@@ -1,3 +1,8 @@
 ﻿google-genai
 python-dotenv
 streamlit
+pymupdf
+langchain-text-splitters
+langchain-google-genai
+langchain-chroma
+httpx
